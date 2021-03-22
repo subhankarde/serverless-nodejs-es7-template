@@ -9,12 +9,12 @@
 ## Getting started
 
 ```
-sls create --name YOUR_PROJECT_NAME --template-url https://github.com/subhankarde/serverless-nodejs-es7-template.git
+sls create --name <YOUR_PROJECT_NAME> --template-url https://github.com/subhankarde/serverless-nodejs-es7-template.git
 cd YOUR_PROJECT_NAME
 npm install
 ```
 
-The original template from Codingly.io was awesome. I updated serverless.yaml to get rid of Serverless deprecation warnings. The latest version of Webpack is not compatible. Please use the below version.
+The latest version of Webpack is not compatible. Please use the below version.
 
 ## Latest npm packages
 
