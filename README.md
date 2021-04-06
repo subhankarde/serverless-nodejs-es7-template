@@ -4,7 +4,7 @@
 
 - Folder structure across multiple projects.
 - [serverless-pseudo-parameters plugin](https://www.npmjs.com/package/serverless-pseudo-parameters): Allows you to take advantage of CloudFormation Pseudo Parameters.
-- [serverless-bundle plugin](https://www.npmjs.com/package/serverless-pseudo-parameters): Optimally packages your ES6 or TypeScript Node.js Lambda functions with sensible defaults so you don't have to maintain your own Webpack configs.
+- [serverless-bundle plugin](https://www.npmjs.com/package/serverless-bundle): Optimally packages your ES6 or TypeScript Node.js Lambda functions with sensible defaults so you don't have to maintain your own Webpack configs.
 
 ## Getting started
 
